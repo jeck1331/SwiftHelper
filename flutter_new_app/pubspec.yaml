@@ -1,0 +1,37 @@
+name: flutter_new_app
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+  flutter_bloc: ^8.1.2
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  http: ^0.13.5
+  equatable: ^2.0.5
+  flutter_svg: ^2.0.1
+  flutter_secure_storage: ^8.0.0
+  rxdart: ^0.27.7
+  email_validator: ^2.1.17
+  dio: ^5.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - images/lake.jpg
+    - images/categories-image/finance.svg
+    - images/categories-image/note.svg
+    - images/categories-image/health.svg
+    - images/categories-image/settings.svg
+    - images/categories-image/time.svg

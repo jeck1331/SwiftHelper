@@ -1,0 +1,3 @@
+enum NoteType {
+  note, list
+}

@@ -1,0 +1,4 @@
+enum FinanceHistoryType {
+  expense,
+  replenishment
+}

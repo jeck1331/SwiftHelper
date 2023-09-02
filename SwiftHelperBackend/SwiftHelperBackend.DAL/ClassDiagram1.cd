@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SwiftHelperBackend.DAL.Models.IdBase" Collapsed="true">
+    <Position X="14.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Base\IdBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.ApplicationUser">
+    <Position X="9.75" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BBAAQAAAAAkAAAEIAAAAAAEBIAAABEAAAwAAAAAAAAA=</HashCode>
+      <FileName>Models\ApplicationUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.FinanceAccount">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAABAAAAAAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Models\FinanceAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.FinanceHistory">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAAAAIAAAAIAgAAAAgAAAAAAAAAAwAAAAAACEA=</HashCode>
+      <FileName>Models\FinanceHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.FinanceShopCategory">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAAAAAAAQAAAAAAAgAAAAAAAAAAAAAgAEAAAA=</HashCode>
+      <FileName>Models\FinanceShopCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.HealthActivityCategory">
+    <Position X="6" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAEAAAAAEAAAAAAAAgAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Models\HealthActivityCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.HealthEat">
+    <Position X="13.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAEAAAAAAACgAAAAAAAAAAgCAAAAAAAA=</HashCode>
+      <FileName>Models\HealthEat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.HealthEatCategory">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAEAAAAAAAAgAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\HealthEatCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.HealthLifeActivity">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAQAAAAAEAAAAACAAgAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Models\HealthLifeActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.HealthWater">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgIAAAAAAAA=</HashCode>
+      <FileName>Models\HealthWater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.NoteDetail">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAgAAAAAADAAAwAAAAAAAAA=</HashCode>
+      <FileName>Models\NoteDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.NoteEntry">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABARAAAABAAgAEAAAAAAAAgAAQAAAAABAwAAAAAAAAQ=</HashCode>
+      <FileName>Models\NoteEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.NoteRefToAccess">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAABAAAAAAAAAAAAAgAACAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Models\NoteRefToAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.PlanEntry">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAgAEAAAAAAAAkAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Models\PlanEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.Models.PlanStageEntry">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAEAAAAAEAEAAEAAAgAAAAAABAIAgAAAAAAAAA=</HashCode>
+      <FileName>Models\PlanStageEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwiftHelperBackend.DAL.AppDbContext">
+    <Position X="12.5" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAQAAEAAkAAAEIAAAAAAEBsAAAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>AppDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
